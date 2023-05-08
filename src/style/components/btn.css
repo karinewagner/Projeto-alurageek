@@ -1,0 +1,29 @@
+
+.btn_submit{
+  color:#5A7FDB;
+  cursor: pointer;
+  background: #F5F5F5;
+  border: 0;
+  padding: 16px;
+  transition: 0.4s;
+  width: fit-content;
+  border-radius: 8px;
+}
+
+.btn_login{
+  border: 2px solid #003479;
+  color: #003479;
+  cursor: pointer;
+  font-weight: 500;
+  margin-left: 20px;
+  padding: 16px 24px;
+  transition: 0.4s;
+  width: fit-content;
+  border-radius: 8px;
+}
+
+@media screen and (min-width: 630px) {
+  .lupa_hidden{
+    display: none;
+  }
+}
